@@ -1,11 +1,11 @@
 {
-    "folders": [
-        {
-            "path": "./",
-            "name": "root"
-        },
-        {
-            "path": "apps",
-        },
-    ],
+  "folders": [
+    {
+      "path": "./",
+      "name": "root"
+    },
+    {
+      "path": "apps/main"
+    }
+  ]
 }
